@@ -1,0 +1,15 @@
+.column-layout {
+  display: flex;
+  flex-direction: column;
+}
+.new-cars-container {
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 0;
+  height: 100%;
+}
+.new-cars-title {
+  height: max-content;
+  min-width: min-content;
+}
