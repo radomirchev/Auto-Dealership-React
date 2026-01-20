@@ -109,7 +109,7 @@
 }
 .top-navigation-bar {
   color: var(--ig-surface-500-contrast);
-  background-color: nordicMinimalistTheme:surface-50;
+  background-color: var(--nordicMinimalistTheme-surface-50);
   z-index: 1;
   position: sticky;
   width: 100%;
